@@ -3,6 +3,8 @@
 
 <img width="6000" height="4000" alt="_DSC2155" src="https://github.com/user-attachments/assets/bbb14f80-18c5-4be0-aef2-0803967c756e" />
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wCtRoU4dOLk?si=uXoknvTNDFola3Mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Railcom-Detector-Display
 RailCom Detector / Display est un projet open source basé sur un ESP32 permettant de recevoir, décoder et afficher en temps réel les informations transmises par les décodeurs DCC compatibles RailCom®.
 
