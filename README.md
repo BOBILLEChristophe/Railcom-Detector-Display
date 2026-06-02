@@ -1,9 +1,8 @@
+# RailCom-Detector-Display
 
 <img width="6000" height="4000" alt="_DSC2154" src="https://github.com/user-attachments/assets/b6c2f082-f53b-4027-9c4c-1df20af39448" />
 
 <img width="6000" height="4000" alt="_DSC2155" src="https://github.com/user-attachments/assets/bbb14f80-18c5-4be0-aef2-0803967c756e" />
-
-# RailCom-Detector-Display
 
 YouTube Video
 
@@ -46,7 +45,12 @@ The GERBER files are available above in:
 
 <img width="740" height="524" alt="railcom_display" src="https://github.com/user-attachments/assets/eedcfc62-5e66-4913-be25-d795183188fd" />
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# RailCom-Detector-Display
+
+<img width="6000" height="4000" alt="_DSC2154" src="https://github.com/user-attachments/assets/b6c2f082-f53b-4027-9c4c-1df20af39448" />
+
+<img width="6000" height="4000" alt="_DSC2155" src="https://github.com/user-attachments/assets/bbb14f80-18c5-4be0-aef2-0803967c756e" />
 
 Vidéo sur Youtube :
 
