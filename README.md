@@ -1,2 +1,24 @@
 # Railcom-Detector-Display
 RailCom Detector / Display est un projet open source basé sur un ESP32 permettant de recevoir, décoder et afficher en temps réel les informations transmises par les décodeurs DCC compatibles RailCom®.
+
+## Fonctionnalités
+
+* Réception des messages RailCom à 250 kbauds.
+* Décodage du codage NMRA RailCom « 4-out-of-8 ».
+* Détection et affichage des adresses courtes et longues DCC.
+* Filtrage logiciel des parasites et des lectures erronées par buffer circulaire.
+* Affichage sur un module 7 segments 4 digits multiplexé.
+
+## Architecture logicielle
+
+Le programme est organisé autour de plusieurs tâches FreeRTOS :
+
+* **ReceiveData** : réception des données RailCom.
+* **ParseData** : décodage des trames RailCom et extraction des adresses DCC.
+* **DisplayAddress** : gestion de l'affichage multiplexé.
+
+## Matériel utilisé
+
+* ESP32-WROOM-32
+* Détecteur RailCom compatible NMRA : https://www.locoduino.org/spip.php?article334
+* Afficheur LED 7 segments 4 digits : LFD039AUE-102A
