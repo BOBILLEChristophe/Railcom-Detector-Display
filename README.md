@@ -3,10 +3,7 @@
 
 <img width="6000" height="4000" alt="_DSC2155" src="https://github.com/user-attachments/assets/bbb14f80-18c5-4be0-aef2-0803967c756e" />
 
-## Vidéo sur Youtube :
-
-<img width="751" height="430" alt="youtube" src="https://github.com/user-attachments/assets/3d057381-b199-4ccc-ac73-819acd0305f9" />
-
+Vidéo sur Youtube :
 
 [![RailCom Detector Demo](https://img.youtube.com/vi/wCtRoU4dOLk/maxresdefault.jpg)](https://youtu.be/wCtRoU4dOLk)
 
