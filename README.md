@@ -27,8 +27,6 @@ Le programme est organisé autour de plusieurs tâches FreeRTOS :
 * Détecteur RailCom compatible NMRA : https://www.locoduino.org/spip.php?article334
 * Afficheur LED 7 segments 4 digits : LFD039AUE-102A https://www.tme.eu/en/details/lfd039aue-102a/7-segment-led-displays/wenrun/lfd039aue-102a-01/
 
-* https://ce8dc832c.cloudimg.io/v7/_cdn_/60/C8/50/00/0/363526_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=9c5fcb0e79ff91b80433ada8b7ef618098880f0c
-
 Les fichiers GERBER sont disponibles dans la liste ci-dessus : afficheurRailcom7segments_Gerber.zip
 
 <img width="740" height="524" alt="railcom_display" src="https://github.com/user-attachments/assets/eedcfc62-5e66-4913-be25-d795183188fd" />
