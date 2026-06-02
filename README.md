@@ -25,7 +25,7 @@ Le programme est organisé autour de plusieurs tâches FreeRTOS :
 
 * ESP32-WROOM-32
 * Détecteur RailCom compatible NMRA : https://www.locoduino.org/spip.php?article334
-* Afficheur LED 7 segments 4 digits : LFD039AUE-102A
+* Afficheur LED 7 segments 4 digits : LFD039AUE-102A https://www.tme.eu/en/details/lfd039aue-102a/7-segment-led-displays/wenrun/lfd039aue-102a-01/
 
 Les fichiers GERBER sont disponibles dans la liste ci-dessus : afficheurRailcom7segments_Gerber.zip
 
